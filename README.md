@@ -13,11 +13,7 @@
 ### Requirements
 
 - Python 3.x
-- Install dependencies with:
 
-```bash
-pip install requests
-```
 
 ## On Linux or Windows
 
@@ -31,12 +27,17 @@ git clone https://github.com/ideealoser/InstaSniper.git
 cd InstaSniper
 ```
 
-3. Run the script:
+3. Install the requiriments
+```bash
+pip install -r requiriments.txt
+```
+
+4. Run the script:
 ```bash
 python InstaLookup.py
 ```
 
-4. Choose an option from the menu:
+5. Choose an option from the menu:
 ```bash
 1: Find ID by username.
 2: Find username by ID.
