@@ -1,1 +1,49 @@
-# InstaLookup
+# InstaSniper
+
+**InstaSniper** is a simple Python tool to look up the **Instagram user ID** from a username and vice versa. Perfect for **never losing a profile**, as the user ID is **permanent**.
+
+## Features
+
+- **Find ID by username**.
+- **Find username by ID**.
+- **Save and view IDs** in `id.txt`
+
+## How to Use
+
+### Requirements
+
+- Python 3.x
+- Install dependencies with:
+
+```bash
+pip install requests
+```
+
+## On Linux or Windows
+
+1. Clone the repository or download the code.
+```bash
+git clone https://github.com/ideealoser/InstaSniper.git
+```
+
+2. Navigate to the Project Directory
+```bash
+cd InstaSniper
+```
+
+3. Run the script:
+```bash
+python InstaLookup.py
+```
+
+4. Choose an option from the menu:
+```bash
+1: Find ID by username.
+2: Find username by ID.
+3: View saved IDs.
+4: Exit.
+```
+
+
+
+
