@@ -45,6 +45,15 @@ python InstaLookup.py
 4: Exit.
 ```
 
+# Tutorial 
 
+[Click here to open the tutorial on YouTube if the video doesn’t load here](https://www.youtube.com/watch?v=DIq9S8v3Q8k)
 
+https://github.com/user-attachments/assets/37b05eb5-f30e-4bd7-a042-723d7936160c
+
+## Contact
+
+For any questions or support, feel free to reach out to me:
+
+- **Telegram**: [@Mzriloo](https://t.me/Mzriloo)
 
